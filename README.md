@@ -17,4 +17,4 @@
 5. Start your FiveM server.
 
 ## Credits
-- [Sheen]([https://forum.cfx.re/t/free-guidebook-ui/5241521)
+- [Sheen](https://forum.cfx.re/t/free-guidebook-ui/5241521)
